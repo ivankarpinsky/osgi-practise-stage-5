@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="stage5-news-service-1.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../stage5-news-service/target/stage5-news-service-1.0-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
